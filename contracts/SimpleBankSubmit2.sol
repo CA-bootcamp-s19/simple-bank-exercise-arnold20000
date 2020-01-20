@@ -1,4 +1,4 @@
-pragma solidity ^0.5.12;
+pragma solidity ^0.5.0;
 
 contract TestSimpleBank { // Real Original. Done and Ready to submit. Running Truffle test in truffle/supply-chain/test
 
